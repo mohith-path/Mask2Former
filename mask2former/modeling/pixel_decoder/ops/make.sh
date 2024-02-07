@@ -10,4 +10,4 @@
 # Copyright (c) Facebook, Inc. and its affiliates.
 # Modified by Bowen Cheng from https://github.com/fundamentalvision/Deformable-DETR
 
-python setup.py build install
+/home/path/python_environments/mask2former/bin/python3 setup.py build install
